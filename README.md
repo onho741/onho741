@@ -16,7 +16,7 @@ FrameMenu.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
 FrameMenu.Position = UDim2.new(0.732198119, 0, 0.430674851, 0)
 FrameMenu.Size = UDim2.new(0, 230, 0, 300)
 
-namescript.Name = "name script"
+namescript.Name = "hotacon deptrai"
 namescript.Parent = FrameMenu
 namescript.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
 namescript.Position = UDim2.new(0.0652173907, 0, 0.0289855078, 0)
